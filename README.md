@@ -5,6 +5,8 @@
 
 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness** that orchestrates **sub-agents**, **memory**, and **sandboxes** to do almost anything — powered by **extensible skills**.
 
+> **بالعربية:** DeerFlow هو إطار عمل مفتوح المصدر للذكاء الاصطناعي، يعمل كـ"وكيل فائق" يُنسّق بين وكلاء فرعيين متعددين والذاكرة وبيئات التنفيذ، مما يُمكّنه من أداء مهام بحثية واستكشافية معقدة بكفاءة عالية باستخدام مهارات قابلة للتوسعة.
+
 https://github.com/user-attachments/assets/a8bcadc4-e040-4cf2-8fda-dd768b999c18
 
 > [!NOTE]
