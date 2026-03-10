@@ -5,6 +5,8 @@
 
 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness** that orchestrates **sub-agents**, **memory**, and **sandboxes** to do almost anything — powered by **extensible skills**.
 
+> **بالعربية:** DeerFlow هو إطار عمل مفتوح المصدر للذكاء الاصطناعي، يعمل كـ"وكيل فائق" يُنسّق بين وكلاء فرعيين متعددين والذاكرة وبيئات التنفيذ، مما يُمكّنه من أداء مهام بحثية واستكشافية معقدة بكفاءة عالية باستخدام مهارات قابلة للتوسعة.
+
 https://github.com/user-attachments/assets/a8bcadc4-e040-4cf2-8fda-dd768b999c18
 
 > [!NOTE]
@@ -51,6 +53,7 @@ DeerFlow has newly integrated the intelligent search and crawling toolset indepe
     - [Sandbox \& File System](#sandbox--file-system)
     - [Context Engineering](#context-engineering)
     - [Long-Term Memory](#long-term-memory)
+  - [Business & Monetization Opportunities](#business--monetization-opportunities)
   - [Recommended Models](#recommended-models)
   - [Embedded Python Client](#embedded-python-client)
   - [Documentation](#documentation)
@@ -400,6 +403,38 @@ This is the difference between a chatbot with tool access and an agent with an a
 Most agents forget everything the moment a conversation ends. DeerFlow remembers.
 
 Across sessions, DeerFlow builds a persistent memory of your profile, preferences, and accumulated knowledge. The more you use it, the better it knows you — your writing style, your technical stack, your recurring workflows. Memory is stored locally and stays under your control.
+
+## Business & Monetization Opportunities
+
+DeerFlow's open-source, extensible architecture makes it a strong foundation for building real products and services. Below are practical opportunities for developers, agencies, and entrepreneurs to generate revenue with it.
+
+### 1. SaaS Research & Intelligence Platform
+Host DeerFlow as a multi-tenant web service and charge subscription fees for access. Target customers include market analysts, consultants, journalists, and knowledge workers who need deep, automated research on demand. Differentiate through domain-specific skill packs (finance, legal, science, etc.) and tiered plans (request quotas, model quality, memory retention).
+
+### 2. Custom AI Agent Development Services
+Use DeerFlow as the delivery engine for bespoke AI agent projects. Offer clients custom sub-agents, company-specific skill packs, MCP server integrations, and branded deployments. This is well-suited for freelancers and agencies targeting enterprises that want internal AI automation without building infrastructure from scratch.
+
+### 3. Automated Content & Report Generation
+Build a white-label report-generation tool on top of DeerFlow's research, slide-creation, and web-page skills. Sell to businesses that regularly produce market reports, SEO content, investor briefs, or competitive analyses. Charge per report or offer a subscription with a monthly generation quota.
+
+### 4. Enterprise Knowledge Automation
+Deploy DeerFlow inside a company's private cloud to automate knowledge-intensive workflows — literature reviews, competitor monitoring, regulatory summaries, internal Q&A. Package this as a professional services engagement (setup + training + ongoing support) or as a licensed on-premise product.
+
+### 5. Vertical AI Assistants (Telegram / Slack / Feishu)
+DeerFlow ships with native IM channel support. Build a domain-specific bot (legal assistant, financial advisor, HR helper) on top of its messaging integration and monetize via subscription access to the bot, usage-based API calls, or embedded advertising.
+
+### 6. AI Coding & Automation Tools
+Leverage the sandbox execution environment and Claude Code integration to build developer-focused products: automated code review agents, documentation generators, test writers, or DevOps automation tools. Sell as a developer tool SaaS or integrate into existing CI/CD marketplaces.
+
+### 7. Skill Pack Marketplace
+Create and sell premium skill packs — curated `SKILL.md` modules that give DeerFlow specialized capabilities (e.g., financial modeling, patent research, SEO auditing). Distribute through a marketplace or direct download with a one-time or recurring license fee.
+
+### 8. Consulting & Training
+Offer consulting engagements to help companies adopt DeerFlow: architecture design, custom skill development, security hardening, and training workshops. As the ecosystem grows, expertise in DeerFlow integration becomes a billable specialization.
+
+---
+
+> **Note:** DeerFlow is MIT-licensed, so there are no royalties or licensing fees owed for commercial use. You keep what you build.
 
 ## Recommended Models
 
